@@ -1,3 +1,5 @@
 UMAT code for "A crystal plasticity framework for modelling the rolling contact fatigue of planetary roller screw mechanism"
 
+With the increasing application in complex working conditions, the rolling contact fatigue (RCF) of the planetary roller screw mechanism (PRSM) has become a crucial problem limiting its reliability and stability, while the underlying mechanism of the RCF has not yet been elucidated. In this work, based on the crystal plasticity framework, a meso-scale model considering the microstructure is established to investigate the fatigue damage distributions and crack initiation time by Jiang-Sehitoglu multi-axial fatigue criterion. The wear damage and stress redistributions of the PRSM under different contact modes are analyzed in detail. In addition, the effects of temperature induced stress redistribution on thread crack initiation and the load spectrum induced by combined external load on the fatigue behaviors are also discussed.
+
 doi: http://dx.doi.org/10.1016/j.ijfatigue.2024.108216
